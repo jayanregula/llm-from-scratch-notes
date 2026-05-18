@@ -1,8 +1,6 @@
 # llm-from-scratch-notes
 
-
-
-# Day 1 — Introduction to Large Language Models (LLMs)
+# Introduction to Large Language Models (LLMs)
 
 Welcome to my journey of learning Large Language Models from scratch.
 
