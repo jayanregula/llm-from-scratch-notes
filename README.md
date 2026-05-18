@@ -111,7 +111,9 @@ Artificial Intelligence (AI)
  └── Machine Learning (ML)
       └── Deep Learning (DL)
            └── Large Language Models (LLMs)
+
 ```
+<img width="2550" height="1550" alt="Differences-Between-AI-ML-and-DL" src="https://github.com/user-attachments/assets/1d5a9651-0041-4d06-8637-af2df49c4eb9" />
 
 ### Artificial Intelligence (AI)
 
